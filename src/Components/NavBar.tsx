@@ -1,4 +1,5 @@
 import React from "react";
+
 import { HStack, Image } from "@chakra-ui/react";
 import logo from "../assets/126.jpg";
 import ColorModeSwitch from "./ColorModeSwitch";
