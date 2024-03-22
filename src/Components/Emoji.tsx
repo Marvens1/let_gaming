@@ -1,6 +1,6 @@
-import fleche from "../assets/fleche.jpg";
-import like from "../assets/like.jpg";
-import meh from "../assets/meh.png";
+import fleche from "../assets/fleche1.png";
+import like from "../assets/like1.png";
+import meh from "../assets/sad.png";
 import { ImageProps, Image } from "@chakra-ui/react";
 
 interface Props {
